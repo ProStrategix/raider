@@ -1,0 +1,3 @@
+[mcp_servers.MCP_DOCKER]
+# Give the Docker gateway more time to start up if MCP clients currently time out.
+startup_timeout_sec = 120
